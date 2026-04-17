@@ -4,7 +4,7 @@
     "lastName": "Касымова",
     "phone": "+77001234501",
     "email": "aigul.kasymova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -29,7 +29,7 @@
     "lastName": "Жуматова",
     "phone": "+77012345602",
     "email": "dina.zhumatova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -59,7 +59,7 @@
     "lastName": "Ахметова",
     "phone": "+77023456703",
     "email": "nurgul.akhmetova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -89,7 +89,7 @@
     "lastName": "Сейткали",
     "phone": "+77034567804",
     "email": "malika.seitkali@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -114,7 +114,7 @@
     "lastName": "Байжанова",
     "phone": "+77045678905",
     "email": "zarina.baijanova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -139,7 +139,7 @@
     "lastName": "Соколова",
     "phone": "+77056789006",
     "email": "irina.sokolova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -164,7 +164,7 @@
     "lastName": "Морозова",
     "phone": "+77067890107",
     "email": "svetlana.morozova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -189,7 +189,7 @@
     "lastName": "Кенжебаева",
     "phone": "+77078901208",
     "email": "gulnara.kenjebaeva@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -219,7 +219,7 @@
     "lastName": "Мухамедова",
     "phone": "+77089012309",
     "email": "anara.mukhamedova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -254,7 +254,7 @@
     "lastName": "Досова",
     "phone": "+77090123410",
     "email": "kamila.dosova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -279,7 +279,7 @@
     "lastName": "Алиева",
     "phone": "+77001234511",
     "email": "zhanar.alieva@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -309,7 +309,7 @@
     "lastName": "Нурланова",
     "phone": "+77012345612",
     "email": "samal.nurlanova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -334,7 +334,7 @@
     "lastName": "Бекова",
     "phone": "+77023456713",
     "email": "nazgul.bekova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -364,7 +364,7 @@
     "lastName": "Петрова",
     "phone": "+77034567814",
     "email": "tatyana.petrova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -389,7 +389,7 @@
     "lastName": "Сарсенова",
     "phone": "+77045678915",
     "email": "aliya.sarsenova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -419,7 +419,7 @@
     "lastName": "Исмаилова",
     "phone": "+77056789016",
     "email": "venera.ismailova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -444,7 +444,7 @@
     "lastName": "Жакупова",
     "phone": "+77067890117",
     "email": "meruyert.zhakupova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -474,7 +474,7 @@
     "lastName": "Оспанова",
     "phone": "+77078901218",
     "email": "botagoz.ospanova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -499,7 +499,7 @@
     "lastName": "Белова",
     "phone": "+77089012319",
     "email": "oksana.belova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -529,7 +529,7 @@
     "lastName": "Токтарова",
     "phone": "+77090123420",
     "email": "gulmira.toktarova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -554,7 +554,7 @@
     "lastName": "Ергалиева",
     "phone": "+77001234521",
     "email": "diana.ergalieva@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -589,7 +589,7 @@
     "lastName": "Садуакасова",
     "phone": "+77012345622",
     "email": "elmira.saduakasova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -614,7 +614,7 @@
     "lastName": "Демченко",
     "phone": "+77023456723",
     "email": "karina.demchenko@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -644,7 +644,7 @@
     "lastName": "Нуркасымова",
     "phone": "+77034567824",
     "email": "akmaral.nurkasymova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -669,7 +669,7 @@
     "lastName": "Амангельдина",
     "phone": "+77045678925",
     "email": "laura.amangeldina@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -699,7 +699,7 @@
     "lastName": "Шарипова",
     "phone": "+77056789026",
     "email": "perizat.sharipova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -729,7 +729,7 @@
     "lastName": "Кузнецова",
     "phone": "+77067890127",
     "email": "zhanna.kuznetsova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -759,7 +759,7 @@
     "lastName": "Кожахметова",
     "phone": "+77078901228",
     "email": "asel.kozhakhmetova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -784,7 +784,7 @@
     "lastName": "Волкова",
     "phone": "+77089012329",
     "email": "rita.volkova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -809,7 +809,7 @@
     "lastName": "Асанова",
     "phone": "+77090123430",
     "email": "sabina.asanova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -834,7 +834,7 @@
     "lastName": "Рахимбекова",
     "phone": "+77001234531",
     "email": "madina.rakhimbekova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -869,7 +869,7 @@
     "lastName": "Байкенова",
     "phone": "+77012345632",
     "email": "gulsim.baikenova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -899,7 +899,7 @@
     "lastName": "Захарова",
     "phone": "+77023456733",
     "email": "nadezhda.zakharova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -924,7 +924,7 @@
     "lastName": "Мусаева",
     "phone": "+77034567834",
     "email": "ainur.musaeva@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -954,7 +954,7 @@
     "lastName": "Нурмагамбетова",
     "phone": "+77045678935",
     "email": "sholpan.nurmagambetova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -979,7 +979,7 @@
     "lastName": "Новикова",
     "phone": "+77056789036",
     "email": "arina.novikova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1009,7 +1009,7 @@
     "lastName": "Тулеукова",
     "phone": "+77067890137",
     "email": "zulfiya.tuleukhova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1039,7 +1039,7 @@
     "lastName": "Смагулова",
     "phone": "+77078901238",
     "email": "aidana.smagulova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1074,7 +1074,7 @@
     "lastName": "Ковалёва",
     "phone": "+77089012339",
     "email": "margarita.kovaleva@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1104,7 +1104,7 @@
     "lastName": "Жумагулова",
     "phone": "+77090123440",
     "email": "tolkyn.zhumagulova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1129,7 +1129,7 @@
     "lastName": "Горбунова",
     "phone": "+77001234541",
     "email": "tamara.gorbunova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1159,7 +1159,7 @@
     "lastName": "Абдрахманова",
     "phone": "+77012345642",
     "email": "raushan.abdrakhmanova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1184,7 +1184,7 @@
     "lastName": "Байменова",
     "phone": "+77023456743",
     "email": "inkar.baimenova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1219,7 +1219,7 @@
     "lastName": "Кариева",
     "phone": "+77034567844",
     "email": "elvira.karieva@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1244,7 +1244,7 @@
     "lastName": "Симонова",
     "phone": "+77045678945",
     "email": "yulia.simonova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1274,7 +1274,7 @@
     "lastName": "Калиева",
     "phone": "+77056789046",
     "email": "asem.kalieva@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1304,7 +1304,7 @@
     "lastName": "Ибрагимова",
     "phone": "+77067890147",
     "email": "bibigul.ibragimova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1334,7 +1334,7 @@
     "lastName": "Романова",
     "phone": "+77078901248",
     "email": "viktoriya.romanova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1359,7 +1359,7 @@
     "lastName": "Абенова",
     "phone": "+77089012349",
     "email": "azhar.abenova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
@@ -1389,7 +1389,7 @@
     "lastName": "Юсупова",
     "phone": "+77090123450",
     "email": "feruza.yusupova@example.com",
-    "orderType": "eshop-individual",
+    "orderType": "main",
     "orderMethod": "shopping-cart",
     "status": "new",
     "items": [
