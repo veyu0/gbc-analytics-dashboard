@@ -5,8 +5,8 @@ import os
 import altair as alt
 
 # Настройки Supabase
-SUPABASE_URL = "https://yhtqndoauaeckxywgqiy.supabase.co"  # или os.environ.get("SUPABASE_URL")
-SUPABASE_KEY = "sb_publishable_eASPjBmeTUC4SqE-qmuNpA_YkYOKJJk"  # или os.environ.get("SUPABASE_KEY")
+SUPABASE_URL = os.environ.get("SUPABASE_URL")
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 st.title("Аналитика заказов")

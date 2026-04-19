@@ -22,7 +22,7 @@ class BotApp:
 
     def __init__(self):
         # configuration
-        self.telegram_token = "1864328239:AAEHD7aPYmtXqpihP9ggqx-jmakJMh_-g4Y" #os.environ.get("TELEGRAM_TOKEN")
+        self.telegram_token = os.environ.get("TELEGRAM_TOKEN")
         if not self.telegram_token:
             raise RuntimeError("Please set TELEGRAM_TOKEN environment variable")
 
@@ -45,8 +45,8 @@ class BotApp:
             except ValueError:
                 logger.warning("Invalid ADMIN_CHAT_ID: %s", admin_raw)
 
-        self.supabase_url = "https://yhtqndoauaeckxywgqiy.supabase.co" #os.environ.get("SUPABASE_URL")
-        self.supabase_key = "sb_publishable_eASPjBmeTUC4SqE-qmuNpA_YkYOKJJk" #os.environ.get("SUPABASE_KEY")
+        self.supabase_url = os.environ.get("SUPABASE_URL")
+        self.supabase_key = os.environ.get("SUPABASE_KEY")
         if not (self.supabase_url and self.supabase_key):
             logger.warning("SUPABASE_URL or SUPABASE_KEY not set - Supabase access will fail")
 
